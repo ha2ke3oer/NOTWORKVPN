@@ -8,11 +8,11 @@ OrionLib:MakeNotification({
 	Time = 5
 })
 
-_G.Key = "Primes_a-60" -- You Put Your Key Here
+_G.Key = "Huyphuchoanggamingk6" -- You Put Your Key Here
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/ha2ke3oer/Anti-doorextreme/main/README.md"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/ha2ke3oer/VPNWORK/main/README.md"), true))()
 
 end
 
